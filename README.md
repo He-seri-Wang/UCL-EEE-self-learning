@@ -11,8 +11,7 @@
 2. *§线性代数*-[**MIT 6.06 Introduction to Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)，**[演習 大学院入試問題 [数学]](https://www.amazon.co.jp/%E6%BC%94%E7%BF%92-%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%85%A5%E8%A9%A6%E5%95%8F%E9%A1%8C-%E6%95%B0%E5%AD%A6-%E5%A7%AB%E9%87%8E-%E4%BF%8A%E4%B8%80/dp/478191361X)
 3. *微积分，常微分方程*-[弱点克服 大学生の微積分](https://www.amazon.co.jp/%E5%BC%B1%E7%82%B9%E5%85%8B%E6%9C%8D-%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E5%BE%AE%E7%A9%8D%E5%88%86-%E6%B1%9F%E5%B7%9D-%E5%8D%9A%E5%BA%B7/dp/4489007191) [**工程數學-常微分方程式](https://www.youtube.com/playlist?list=PLHpm7X23eVtL19wbyjY5Lc542KZhTUSmr) [张宇考研三十讲](https://www.youtube.com/playlist?list=PLXiGKg3oo9C2gACen2Q2fHEtf1vGD-ETH)**
 4. *§概统*-[概率论与数理统计](https://github.com/lzx-center/Probability-Theory-and-Mathematical-Statistics)教程，[弱点克服 大学生の確率・統計](https://www.amazon.co.jp/%E5%BC%B1%E7%82%B9%E5%85%8B%E6%9C%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E7%A2%BA%E7%8E%87%E3%83%BB%E7%B5%B1%E8%A8%88-%E8%97%A4%E7%94%B0-%E5%B2%B3%E5%BD%A6/dp/4489020694)
-5. 拉普拉斯变换（待补）
-6. 傅里叶变换（待补）
+
 7. 复变函数 参考复分析教材 [Complex Analysis，3rd Edition，Lars V.Ahlfors](https://mccuan.math.gatech.edu/courses/6321/lars-ahlfors-complex-analysis-third-edition-mcgraw-hill-science_engineering_math-1979.pdf)
 8. 图论（待补）
 
