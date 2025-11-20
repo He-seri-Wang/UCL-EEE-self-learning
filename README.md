@@ -1,7 +1,6 @@
 # UCL-EEE-self-learning
 # UG Course Plan-Overall
 
-## UCL EEE自救（不）完全指北
 
 参考东大EEIS-创情-复杂-电情/京大知能/东工EE/九大EE直考经验帖、国内高校电子信息工程相关课程方案制成，旨在提供EECS完善的本科课程内容，弥补大部分英国本科培养计划相比国内教育缺失的部分
 
